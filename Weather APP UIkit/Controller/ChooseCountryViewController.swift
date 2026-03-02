@@ -1,13 +1,13 @@
 //
-//  TestViewController.swift
+//  ChooseCountryViewController.swift
 //  Weather APP UIkit
 //
-//  Created by Amir on 13.02.2026.
+//  Created by Amir on 22.02.2026.
 //
 
 import UIKit
 
-class TestViewController: UIViewController {
+class ChooseCountryViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
